@@ -1,0 +1,30 @@
+.content {
+	border-left: 1px;
+	border-right: 1px;
+	border-left-style: solid;
+	border-right-style: solid;
+	border-color: #ddd;
+	height: 100%;
+}
+.canvas{
+	height:100%;
+}
+html {
+	height:100%;
+}
+.area1{
+
+	border: 1px;
+	border-style: solid;
+	border-color: #ddd;
+	height: 10%;
+	width: 100%;
+}
+.area2{
+
+	border: 1px;
+	border-style: solid;
+	border-color: #ddd;
+	height: 100%;
+	width: 100%;
+}
