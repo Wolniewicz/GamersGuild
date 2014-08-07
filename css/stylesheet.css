@@ -1,9 +1,4 @@
 .content {
-	border-left: 1px;
-	border-right: 1px;
-	border-left-style: solid;
-	border-right-style: solid;
-	border-color: #ddd;
 	height: 100%;
 }
 .canvas{
@@ -14,9 +9,6 @@ html {
 }
 .banner{
 
-	border: 1px;
-	border-style: solid;
-	border-color: #ddd;
 	height: 30%;
 	width: 100%;
 }
@@ -27,13 +19,24 @@ html {
 	height:100%;
 }
 .area2{
-
-	border: 1px;
-	border-style: solid;
-	border-color: #ddd;
 	height: 70%;
 	width: 100%;
 }
 #imglogo {
 	height:100%;
+	border: 3px;
+	border-color: black;
+	border-style: solid;
+}
+#imgstorefront {
+	border: 3px;
+	border-color: black;
+	border-style: solid;
+}
+#maintitle {
+  margin-left: auto;
+  margin-right: auto;
+}
+#fillerbanner{
+	height: 30%;
 }
